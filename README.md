@@ -12,18 +12,13 @@ Our project is to understand if IPO activity is correlated to economic performan
  - Second graph: Line graph - total priced IPOs by month, with lines as each year (insights: busiest month)
  
 2. What was the performance of the S&P500 over the same period of time?
- - First graph: Line graph - y-axis = index price, x-axis = year
+
  
 3. What is the correlation of the IPOs to the performance of the S&P500 during the same time period?
- - First graph: Bar chart/Line  - y-axis = S&P 500 index price, x-axis = year, 2 lines - 1 for S&P and 1 for IPOs (insights: most profitable month, least profitable month)
- - Second graph: withdrawals compared to S&P500 performance - where x axis is year y axis is 
  
 4. Which were the largest IPOs? How much would you have made if you invested in the top 2-3?
- - First graph: scatter plot?
- 
-5. What was consumer sentiment toward home buying during this same time period?
 
-6. What was the correlation of S&P 500 performance to consumer sentiment toward home buying?
+5. What was the correlation of S&P 500 performance to consumer sentiment?
 
 # Datasets to be Used:
 - Quandl or Nest Egg for stock data
